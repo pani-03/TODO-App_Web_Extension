@@ -94,7 +94,6 @@ Preview of the extension and UI states:
 "I wanted to go beyond regular React apps by turning one into a fully packaged Chrome Extension. This project challenged me to integrate modern tooling (Vite + Tailwind) while applying concepts like persistent state, manifest configuration, and browser-based UX."
 
 🙋‍♂️ About Me
-Shubham Pani
+Subham Pani
 🌐 Frontend Developer | React Enthusiast
-📍 Based in Jamshedpur, India
 🔗 GitHub | LinkedIn
