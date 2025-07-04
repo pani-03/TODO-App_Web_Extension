@@ -21,6 +21,9 @@ Here’s a quick preview of the Chrome Extension Todo App:
 
 <p align="center">
   <img src="./media/td1.png" width="600" alt="Todo Screenshot">
+  <img src="./media/td2.png" width="600" alt="Todo Screenshot">
+  <img src="./media/td3.png" width="600" alt="Todo Screenshot">
+  <img src="./media/td4.png" width="600" alt="Todo Screenshot">
 </p>
 
 ---
@@ -56,18 +59,9 @@ This project transforms a simple React Todo List into a fully functional **Chrom
 
 ## 📦 Getting Started
 
-### 🔧 Local Development
-
-```bash
-git clone https://github.com/pani-03/TODO-App_Web_Extension.git
-cd TODO-App_Web_Extension
-npm install
-npm run dev
 ⚙️ Production Build
-bash
-Copy
-Edit
-npm run build
+    npm run build
+
 This will create a /dist folder with everything ready for Chrome.
 
 🧩 Load as Chrome Extension
@@ -81,8 +75,9 @@ Select the /dist folder
 
 You’ll see the extension appear in your browser’s toolbar 🎉
 
-📸 Screenshots
-Preview of the extension and UI states:
+
+
+You’ll see the extension appear in your browser’s toolbar 🎉
 
 🪟 Extension Popup UI
 
