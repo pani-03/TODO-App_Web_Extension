@@ -5,13 +5,6 @@ A minimal, responsive Todo List Chrome Extension built with React, Tailwind CSS,
 
 Here’s a quick preview of the Chrome Extension Todo App:
 
-### 🔹 Todo List UI
-![Todo UI 1](./media/td1.png)
-![Todo UI 2](./media/td2.png)
-
-### 🔹 Add Task / Remove Task Demo
-![Add Task](./media/td3.png)
-![Remove Task](./media/td4.png)
 
 <h1 align="center">📝 Chrome Extension: React Todo App</h1>
 
@@ -21,9 +14,6 @@ Here’s a quick preview of the Chrome Extension Todo App:
 
 <p align="center">
   <img src="./media/td1.png" width="600" alt="Todo Screenshot">
-  <img src="./media/td2.png" width="600" alt="Todo Screenshot">
-  <img src="./media/td3.png" width="600" alt="Todo Screenshot">
-  <img src="./media/td4.png" width="600" alt="Todo Screenshot">
 </p>
 
 ---
@@ -84,6 +74,18 @@ You’ll see the extension appear in your browser’s toolbar 🎉
 
 ➕ Adding & Removing Tasks
 
+## 📸 Screenshots  
+Preview of the extension and UI states:
+
+<div align="center">
+  
+  <img src="./media/td1.png" width="45%" alt="Todo Screenshot 1" />
+  <img src="./media/td2.png" width="45%" alt="Todo Screenshot 2" />
+  <br /><br />
+  <img src="./media/td3.png" width="45%" alt="Todo Screenshot 3" />
+  <img src="./media/td4.png" width="45%" alt="Todo Screenshot 4" />
+
+</div>
 
 🧠 Why I Built This
 "I wanted to go beyond regular React apps by turning one into a fully packaged Chrome Extension. This project challenged me to integrate modern tooling (Vite + Tailwind) while applying concepts like persistent state, manifest configuration, and browser-based UX."
